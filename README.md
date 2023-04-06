@@ -73,22 +73,25 @@ or(y2,a,b);
 not(y3,a);
 xor(y4,a,b);
 xnor(y5,a,b);
-nand(y6,a,b);
+n(y6,a,b);
 nor(y7,a,b);
 endmodule
 ```
 */
 Logic symbol & Truthtable
+![WhatsApp Image 2023-04-06 at 12 43 01 PM](https://user-images.githubusercontent.com/118680410/230302392-7ebbff83-ce95-44be-8b46-f29c048b3c70.jpeg)
 
-![de1 2](https://user-images.githubusercontent.com/118680410/230288691-fa317a84-46d0-4c86-86c4-7ff3bc038d34.png)
 
 OUTPUT
 RTL realization
 
 ![delectronic1](https://user-images.githubusercontent.com/118680410/230288847-47652f53-f437-467b-bd01-0f1a7a60ef13.png)
 WAVEFORM
+![WhatsApp Image 2023-04-06 at 12 42 50 PM](https://user-images.githubusercontent.com/118680410/230302408-386124b1-90f8-421e-9486-1d4c1ef6d5bd.jpeg)
 
-![delectronic1 12](https://user-images.githubusercontent.com/118680410/230295938-06e2fa06-67bc-4bbb-8af4-16e00ad21bfc.png)
+
+
+
 
 
 
