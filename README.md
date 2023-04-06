@@ -88,9 +88,10 @@ RTL realization
 ![delectronic1](https://user-images.githubusercontent.com/118680410/230288847-47652f53-f437-467b-bd01-0f1a7a60ef13.png)
 WAVEFORM
 
+![delectronic1 12](https://user-images.githubusercontent.com/118680410/230295938-06e2fa06-67bc-4bbb-8af4-16e00ad21bfc.png)
 
 
-![delectronic1 2](https://user-images.githubusercontent.com/118680410/230295175-b027679c-d608-4fe3-89c5-e0511ec1b9e0.png)
+
 
 
 Result:
