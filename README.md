@@ -68,19 +68,19 @@ RegisterNumber: 212222230017
 module bm(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
+
 and(y1,a,b);
 or(y2,a,b);
 not(y3,a);
 xor(y4,a,b);
-xnor(y5,a,b);
-n(y6,a,b);
-nor(y7,a,b);
+nand(y5,a,b);
+nor(y6,a,b);
+xnor(y7,a,b);
 endmodule
 ```
 */
 Logic symbol & Truthtable
-![WhatsApp Image 2023-04-06 at 12 43 01 PM](https://user-images.githubusercontent.com/118680410/230302392-7ebbff83-ce95-44be-8b46-f29c048b3c70.jpeg)
-
+![WhatsApp Image 2023-04-06 at 12 43 01 PM (1)](https://user-images.githubusercontent.com/118680410/230302665-fe903001-212a-4a7f-a788-2ba3c5545bc9.jpeg)
 
 OUTPUT
 RTL realization
